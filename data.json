@@ -1,0 +1,89 @@
+{
+    "question": [
+        "Q1. What country has the highest life expectancy?",
+        "Q2. What disease commonly spread on pirate ships?",
+        "Q3. Who was the Ancient Greek God of the Sun?",
+        "Q4. Who has won the most total Academy Awards?",
+        "Q5. How many minutes are in a full week?",
+        "Q6. What company was originally called Cadabra?",
+        "Q7. How many elements are in the periodic table?",
+        "Q8. What country drinks the most coffee per capita?",
+        "Q9. Which planet in the Milky Way is the hottest?",
+        "10. How many hearts does an octopus have"
+    ],
+    "answer": [
+        1,
+        2,
+        3,
+        2,
+        4,
+        3,
+        1,
+        4,
+        2,
+        3
+    ],
+    "options": [
+        
+        [
+            "Hong Kong",
+            "Australia",
+            "India",
+            "Bangladesh"
+        ],
+        [
+            "Measles",
+            "Scurvy",
+            "Influenza",
+            "Conjunctivitis"
+        ],
+        [
+            "Helios",
+            "Titan Helios",
+            "Apollo",
+            "Zeus"
+        ],
+        [
+            "John Williams",
+            "Walt Disney",
+            "Dennis Muren",
+            "Edith Head"
+        ],
+        [
+            "10,000",
+            "14,020",
+            "12,100",
+            "10,080"
+        ],
+        [
+            "Google",
+            "Open AI",
+            "Amazon",
+            "IBM"
+        ],
+        [
+            "118",
+            "220",
+            "119",
+            "219"
+        ],
+        [
+            "United States",
+            "Australia",
+            "England",
+            "Finland"
+        ],
+        [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Jupiter"
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    ]
+}
